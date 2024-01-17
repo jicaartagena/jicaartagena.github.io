@@ -11,8 +11,8 @@
     "profiles": [
       { "network": "github", "username": "jicaartagena", "url": "http://github.com/jicaartagena" },
       { "network": "linkedin", "username": "jicartagena", "url": "http://linkedin.com/in/jicartagena" },
-      { "network": "twitter", "username": "...", "url": "http://twitter.com/..." },
-      { "network": "instagram", "username": "...", "url": "http://instagram.com/..." }
+      { "network": "twitter", "username": "...", "url": " " },
+      { "network": "instagram", "username": "...", "url": " " }
     ]
   },
   "interests": [

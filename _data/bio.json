@@ -64,8 +64,8 @@
   "references": [
     {
       "name": "Joshua Dimaya, Computer Researcher",
-      "address": "1564 N King St Honolulu, HI, 96817",
-      "email": "jd@farringtonhighschool.org"
+      "summary": "1564 N King St Honolulu, HI, 96817",
+      "summary": "jd@farringtonhighschool.org"
     }
   ]
 }

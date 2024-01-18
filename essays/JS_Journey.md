@@ -14,7 +14,7 @@ labels:
 
 <img width="175px" 
      class="rounded float-start pe-4" 
-     src="[../img/journeying/Javascript.png](https://miro.medium.com/v2/resize:fit:1400/0*svifr-_qC_jy2fBg)" >
+     src="https://miro.medium.com/v2/resize:fit:1400/0*svifr-_qC_jy2fBg" >
 
 JavaScript's unique and fascinating nature lies in its adaptability and versatility, making it an accessible tool for programmers at all levels of expertise. Often compared to other programming languages, JavaScript is a distinctive and captivating language that serves as the backbone of web development for both front-end and back-end design. Learning JavaScript can be challenging initially; however, its C-style syntax makes it relatively easy for beginners to grasp, especially if they have experience with other programming languages.
 

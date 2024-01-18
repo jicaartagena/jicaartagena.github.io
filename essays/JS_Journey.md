@@ -21,6 +21,11 @@ JavaScript's unique and fascinating nature lies in its adaptability and versatil
 The addition of ECMAScript 6 (ES6) marked a transformative phase, introducing key features and syntax improvements that significantly enhanced its capabilities. Features like arrow functions, template literals, destructuring assignment, and classes brought modern programming constructs to the language, contributing to more efficient and expressive code. This continual evolution showcases JavaScript's dynamic nature, solidifying its position as a cornerstone in the ever-evolving landscape of programming languages.
 
 ## Pros and Cons of JavaScript in Software Engineering
+
+<img width="225px" 
+     class="rounded float-start pe-4" 
+     src="https://miro.medium.com/v2/resize:fit:1224/1*es-ucQ5w5NJ5unD_Us5gSg.jpeg" >
+
 JavaScript, from a software engineering perspective, can be both beneficial and challenging, depending on the project you are using it for. Its versatility in handling both client-side and server-side programming, along with the accessibility it provides to programmers, makes it a strong candidate for creating a wide range of web applications. The extensive ecosystem of Node.js and NPM further enhances its capabilities. However, concerns about performance, naming conventions, and potential misalignment with developers' expectations may arise. The suitability of JavaScript depends on specific project requirements, leveraging its strengths in versatility and accessibility while considering performance and unique language characteristics.
 
 ## Athletic Software Engineering: Thriving with JavaScript in the WOD Approach

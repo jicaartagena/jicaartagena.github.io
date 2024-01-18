@@ -13,6 +13,10 @@ labels:
 ## Dynamic world of JavaScript
 JavaScript's unique and fascinating nature lies in its adaptability and versatility, making it an accessible tool for programmers at all levels of expertise. Often compared to other programming languages, JavaScript is a distinctive and captivating language that serves as the backbone of web development for both front-end and back-end design. Learning JavaScript can be challenging initially; however, its C-style syntax makes it relatively easy for beginners to grasp, especially if they have experience with other programming languages.
 
+<img width="175px" 
+     class="rounded float-start pe-4" 
+     src="[../img/journeying/Javascript.png](https://miro.medium.com/v2/resize:fit:1400/0*svifr-_qC_jy2fBg)" >
+
 The addition of ECMAScript 6 (ES6) marked a transformative phase, introducing key features and syntax improvements that significantly enhanced its capabilities. Features like arrow functions, template literals, destructuring assignment, and classes brought modern programming constructs to the language, contributing to more efficient and expressive code. This continual evolution showcases JavaScript's dynamic nature, solidifying its position as a cornerstone in the ever-evolving landscape of programming languages.
 
 ## Pros and Cons of JavaScript in Software Engineering

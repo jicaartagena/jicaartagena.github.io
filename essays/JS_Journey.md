@@ -12,7 +12,7 @@ labels:
 
 ## Dynamic world of JavaScript
 
-<img width="175px" 
+<img width="225px" 
      class="rounded float-start pe-4" 
      src="https://miro.medium.com/v2/resize:fit:1400/0*svifr-_qC_jy2fBg" >
 

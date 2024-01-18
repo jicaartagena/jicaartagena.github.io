@@ -15,7 +15,7 @@ JavaScript's unique and fascinating nature lies in its adaptability and versatil
 
 <img width="175px" 
      class="rounded float-start pe-4" 
-     src="[../img/journeying/Javascript.png](https://miro.medium.com/v2/resize:fit:1400/0*svifr-_qC_jy2fBg)" >
+     src="[../img/journeying/Javascript.png]" >
 
 The addition of ECMAScript 6 (ES6) marked a transformative phase, introducing key features and syntax improvements that significantly enhanced its capabilities. Features like arrow functions, template literals, destructuring assignment, and classes brought modern programming constructs to the language, contributing to more efficient and expressive code. This continual evolution showcases JavaScript's dynamic nature, solidifying its position as a cornerstone in the ever-evolving landscape of programming languages.
 

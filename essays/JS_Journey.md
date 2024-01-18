@@ -1,12 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "Diving into JavaScript"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
-published: false
+date: 2024-01-17
+published: True
 labels:
-  - Engineering
+  - Software Engineering
+  - JavaScript
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">

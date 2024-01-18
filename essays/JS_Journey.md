@@ -22,7 +22,7 @@ The addition of ECMAScript 6 (ES6) marked a transformative phase, introducing ke
 
 ## Pros and Cons of JavaScript in Software Engineering
 
-<img width="225px" 
+<img width="200px" 
      class="rounded float-start pe-4" 
      src="https://miro.medium.com/v2/resize:fit:1224/1*es-ucQ5w5NJ5unD_Us5gSg.jpeg" >
 

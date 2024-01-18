@@ -27,7 +27,7 @@ JavaScript, from a software engineering perspective, can be both beneficial and 
 
 <img width="225px" 
      class="rounded float-start pe-4" 
-     src="(https://franchiseindia.s3.ap-south-1.amazonaws.com/uploads/content/edu/art/5bfc6068a8178.jpeg)" >
+     src="https://franchiseindia.s3.ap-south-1.amazonaws.com/uploads/content/edu/art/5bfc6068a8178.jpeg">
 
 In my experience with athletic software engineering, particularly the WOD approach, I have found it to be very helpful in gaining familiarity and proficiency with JavaScript. Although it induces stress and requires perseverance, it fosters a more dedicated focus. The practicality of athletic software engineering is evident in its real-world relevance, and the collaborative structure is enjoyable. Despite initial difficulties and a preference for a less stressful learning style, I recognize the intellectual challenge and practical benefits, expecting continued adaptation and skill development throughout the semester.
 

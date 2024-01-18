@@ -53,3 +53,6 @@ So back to the original premise; why is being one of the club officers so diffic
 And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
 
 Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+
+<hr>
+###### Acknowledgement: AI tools such as ChatGPT and other online resource were used for inspiration and help with grammar, vocabulary and punctuation.

@@ -10,9 +10,7 @@
     "location": { "address": "...", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jicaartagena", "url": "http://github.com/jicaartagena" },
-      { "network": "linkedin", "username": "jicartagena", "url": "http://linkedin.com/in/jicartagena" },
-      { "network": "twitter", "username": "...", "url": " " },
-      { "network": "instagram", "username": "...", "url": " " }
+      { "network": "linkedin", "username": "jicartagena", "url": "http://linkedin.com/in/jicartagena" }
     ]
   },
   "interests": [
@@ -59,13 +57,17 @@
       "date": "2022-Present",
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+    {
+     "title": "Dean's List",
+      "date": "Fall, 2022",
+      "awarder": "University of Hawaii -  College of Engineering",
+      "summary": "Awarded to undergraduate students who ended the Fall 2022 semester with a GPA of at least 3.5."
     }
   ],
   "references": [
     {
-      "name": "Joshua Dimaya, Computer Researcher",
-      "summary": "1564 N King St Honolulu, HI, 96817",
-      "summary": "jd@farringtonhighschool.org"
+      "name": "Available upon request"
     }
   ]
 }

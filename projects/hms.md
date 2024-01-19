@@ -24,22 +24,45 @@ summary: "My team and I created a basic hotel management system in the language 
 Here is the main menu that users would be presented with upon running the program:
 
 ```cpp
-int main() {
-    int opt, rno;
-    char pname[100]; //char name array
-    HotelMgnt hm; //used to call in hm class functions
+...}
+class Customer {
+private:
+    int roomNumber, advancePayment;
+    string customerName, address, phoneNumber, bookingStart, bookingEnd;
 
-    do { //do while statement for main menu
-        std::cout << "######## Hotel Management #########\n";
-        std::cout << "\n1. Manage Rooms";
-        std::cout << "\n2. Check-In Room";
-        std::cout << "\n3. Available Rooms";
-        std::cout << "\n4. Search Customer";
-        std::cout << "\n5. Check-Out Room";
-        std::cout << "\n6. Guest Summary Report";
-        std::cout << "\n7. Exit";
-        std::cout << "\n\nEnter Option: ";
-        std::cin >> opt;
+public:
+    Customer(const string& name, const string& address, const string& phone, int roomNumber, const string& bookingStart, const string& bookingEnd, int advancePayment)
+        : customerName(name), address(address), phoneNumber(phone), roomNumber(roomNumber), bookingStart(bookingStart), bookingEnd(bookingEnd), advancePayment(advancePayment){} //constructor
+
+    // Getter and setter functions
+
+    const string& getName() const { return customerName; }
+    int getRoomNumber() const { return roomNumber; }
+    const string& getAddress() const { return address; }
+    const string& getPhoneNumber() const { return phoneNumber; }
+    int getAdvancePayment() const { return advancePayment; }
+
+
+    //Displaying the customer's information and amount due
+    void displayCheckOutDetails(int totalAmountDue) const {
+    cout << "######## CheckOut Details ########" << endl;
+    cout << "Customer Name: " << customerName << endl;
+    cout << "Room Number: " << roomNumber << endl;
+    cout << "Address: " << address << endl;
+    cout << "Phone: " << phoneNumber << endl;
+    cout << "Total Amount Due: " << totalAmountDue << endl;
+    cout << "Advance Paid: " << advancePayment << endl;
+    int remainingBalance = totalAmountDue - advancePayment;
+    cout << "*** Total Payable: " << remainingBalance << " / only" << endl;
+}
+  //Displays a customers information 
+    void displayCustomerDetails() const {
+        cout << "Customer Name: " << customerName << endl;
+        cout << "Room Number: " << roomNumber << endl;
+        cout << "Address: " << address << endl;
+        cout << "Phone: " << phoneNumber << endl;
+    }
+};
 ...}
 ```
 <hr>

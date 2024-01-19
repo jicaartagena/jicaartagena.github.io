@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/11615453.webp
+image: img/13969656.jpg
 title: "Essentials"
 date: 2021
 published: true

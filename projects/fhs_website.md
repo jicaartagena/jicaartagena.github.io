@@ -27,4 +27,4 @@ a beauty products.
 
 <hr>
 
-Source: <a href="https://replit.com/@JamesCartagena/Final-Project"><i>Replit S</i></a>
+Source: <a href="https://replit.com/@JamesCartagena/Final-Project"><i>Replit Source Code</i></a>

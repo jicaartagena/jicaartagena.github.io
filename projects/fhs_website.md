@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://images.ctfassets.net/3viuren4us1n/4Wdv0gXSWy77nNuNM2MaoF/b3513ffcbfddbc4146a4fa4b28cb81d9/Gamers-workspace.jpg?fm=webp&w=1920
+image: img/11615453.webp
 title: "Essentials"
 date: 2021
 published: true

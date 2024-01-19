@@ -63,3 +63,6 @@ This C++ code defines a Customer class for managing hotel bookings. It includes 
 <hr>
 
 Source: <a href="https://replit.com/@ortigosa/Hotel#main.cpp"><i>Replit Source Code</i></a>
+
+<hr>
+###### Acknowledgement: AI tools such as ChatGPT and other Online Resources were used to provide information and insights as well as help with grammar, vocabulary and punctuation.

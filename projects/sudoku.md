@@ -169,3 +169,6 @@ public class Sudoku {
 ```
 <hr>
 The provided Java code defines a Sudoku class with methods to check the validity of a Sudoku puzzle, convert it to a printable string, and fill in the missing values to solve the puzzle. The `checkSudoku()` method verifies if a given Sudoku adheres to the rules, checking for conflicts in rows, columns, and 3x3 subgrids. The `toString()` method converts the Sudoku to a printable string format. The `fillSudoku` method is a recursive function that attempts to find a valid solution for the puzzle, using a helper function `sudokuHelper()` to explore possible assignments. The `isValid()` function checks if a specific value assignment at a given position is valid according to Sudoku rules. The goal is to fill in the Sudoku grid while ensuring that the rules are satisfied, and the solution is stored in the original Sudoku array if found.
+
+<hr>
+###### Acknowledgement: AI tools such as ChatGPT and other Online Resources were used to provide information and insights as well as help with grammar, vocabulary and punctuation.

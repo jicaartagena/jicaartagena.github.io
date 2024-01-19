@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/sudoku.png
+image: img/sudoku 3.jpg
 title: "Sudoku Solver"
 date: 2023
 published: false

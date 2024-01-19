@@ -1,10 +1,10 @@
 ---
 layout: project
 type: project
-image: https://images2.minutemediacdn.com/image/upload/c_crop,w_2071,h_1164,x_0,y_193/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01g8eqh7x3frj93nqfh2.jpg
+image: https://images.ctfassets.net/3viuren4us1n/4Wdv0gXSWy77nNuNM2MaoF/b3513ffcbfddbc4146a4fa4b28cb81d9/Gamers-workspace.jpg?fm=webp&w=1920
 title: "Essentials"
 date: 2021
-published: True
+published: true
 labels:
   - HTML
   - CSS

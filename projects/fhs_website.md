@@ -20,11 +20,12 @@ For my ICS class project in high school, our assignment was to develop an online
 <hr>
 
 <pre>
-The website for "Essentials" incorporates a modern and responsive design, allowing users to seamlessly navigate and explore gaming essentials mainly mouse, keyboard, and headset. 
-Each item on the store page is interactive, enabling users to click and delve into its dedicated HTML page. Here, they'll find a responsive embedded YouTube video review providing 
-an in-depth look at the product. Additionally, there is a user-friendly interface that includes a button allowing customers to easily add the product to their cart, along with 
-options to select quantities and sizes. The website also incorporates a secure sign-in and login page to enhance user accounts and experiences. While the cart functionality is 
-currently a placeholder, users can confidently explore and add items.
+The website for "Essentials" incorporates a modern and responsive design, allowing users to seamlessly navigate and explore gaming 
+essentials mainly mouse, keyboard, and headset. Each item on the store page is interactive, enabling users to click and delve into 
+its dedicated HTML page. Here, they'll find a responsive embedded YouTube video review providing an in-depth look at the product. 
+Additionally, there is a user-friendly interface that includes a button allowing customers to easily add the product to their cart, 
+along with options to select quantities and sizes. The website also incorporates a secure sign-in and login page to enhance user 
+accounts and experiences. While the cart functionality is currently a placeholder, users can confidently explore and add items.
   
 </pre>
 

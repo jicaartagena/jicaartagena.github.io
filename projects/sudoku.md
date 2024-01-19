@@ -10,9 +10,9 @@ labels:
   - Recursion
 summary: "A Sudoku solver from ICS 211."
 ---
-
+<hr>
 The assignment focuses on implementing and testing a Sudoku-solving algorithm in Java, employing recursive backtracking. The given code includes a `checkSudoku()` method to validate the adherence of a 9x9 Sudoku array to the game rules. The main objective is to complete the `fillSudoku()` method, which uses recursive backtracking to systematically fill empty cells with values 1 to 9, checking the validity of each placement through the `checkSudoku()` method. The algorithm aims to find a solution by exploring potential values for each empty cell and backtracking if necessary. The assignment emphasizes understanding and applying recursion to solve Sudoku puzzles efficiently, with the goal of creating a functional and effective algorithm for puzzle solving.
-
+<hr>
 ## Rules of Sudoku 
 <hr>
 1. The puzzle is played on a 9x9 grid, which is further divided into 9 3x3 sub-grids.
@@ -167,5 +167,5 @@ public class Sudoku {
 	}
 }
 ```
-
+<hr>
 The provided Java code defines a Sudoku class with methods to check the validity of a Sudoku puzzle, convert it to a printable string, and fill in the missing values to solve the puzzle. The `checkSudoku()` method verifies if a given Sudoku adheres to the rules, checking for conflicts in rows, columns, and 3x3 subgrids. The `toString()` method converts the Sudoku to a printable string format. The `fillSudoku` method is a recursive function that attempts to find a valid solution for the puzzle, using a helper function `sudokuHelper()` to explore possible assignments. The `isValid()` function checks if a specific value assignment at a given position is valid according to Sudoku rules. The goal is to fill in the Sudoku grid while ensuring that the rules are satisfied, and the solution is stored in the original Sudoku array if found.

@@ -4,22 +4,15 @@ type: project
 image: img/hms.webp
 title: "Hotel Management System"
 date: 2023
-published: false
+published: True
 labels:
   - VS Code
   - Replit
   - C++
-summary: "My team and I created a basic hotel management system in the language of C++ for a final project, displaying our capabilities and skills from the course."
+summary: "A simple hotel management system in C++ my team and created as a final project for ICS 211."
 ---
 
-
-  The Hotel Management System Project was a final project for the course ICS 212 in which we had to construct a basic hotel management syetm in C++. The class was divided into teams of 5 or 6 and we were all responsible for programming different sections of the code and then putting the program together. I took the lead in this project, by guiding my team and fine-tuning the program. My team and I used cstring arrays, structures, andf class derivation to achieve this goal. We went through several different versions of the program, in which we were encountering bugs in our original implementation of a vector aproach. I took on the role of debugging the majority of the program, and realized that a cstring approach would be much more manageable for the build. Using the framework of the original code, we developed a fully functioning hotel management system that would store user input, rely on a main menu with sub-menus present based on the user's input, and the ability to combine multiple system options into one diaplayable output.
-
-<img width="250px" 
-     class="rounded float-start pe-4" 
-     src="../img/hotelmanagement/hotel-managementstock.jpeg" >
-
-  This project helped me to learn a lot, mainly when working in a collaborative and professional setting. Since each member of the team had to contribute various parts of the code for it then to be put together greatly reflected a real-world setting in a programming environment. I feel that this project not only tested my skills but also gave me insight in regards to the industries synonymous with programming. The experience also provided me with a great oppurunity to develop and improve my own leadership skills.
+For our final project in ICS 211, my team and I were tasked with creating a hotel management system using C++. We utilized Replit for collaborative coding and sharing our work within the group. We all divided our work into different functions such as check-in, check-out, displaying the main menu, etc. During our lab sessions, we discussed the code and how these functions would work cohesively. To store customer and room data, we employed two vectors. The classes, namely Room, HotelManagement, and Customer, were designed to manage data and include functions primarily focused on displaying information. The logic flow was organized through a sequence of functions, each returning a new vector upon completion.
 
 Here is the code I responsible for:
 

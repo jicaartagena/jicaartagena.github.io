@@ -9,6 +9,7 @@ labels:
   - HTML
   - CSS
   - JavaScript
+  - Replit
 summary: "An online store I maid in High School for your gaming Essentials."
 ---
 

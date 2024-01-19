@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/makeup.png
+image: https://images2.minutemediacdn.com/image/upload/c_crop,w_2071,h_1164,x_0,y_193/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01g8eqh7x3frj93nqfh2.jpg
 title: "Essentials"
 date: 2021
 published: True

@@ -3,8 +3,8 @@ layout: project
 type: project
 image: img/hms.webp
 title: "Hotel Management System"
-date: 2023-12-10
-published: True
+date: 2023
+published: false
 labels:
   - VS Code
   - Replit
@@ -21,7 +21,7 @@ summary: "My team and I created a basic hotel management system in the language 
 
   This project helped me to learn a lot, mainly when working in a collaborative and professional setting. Since each member of the team had to contribute various parts of the code for it then to be put together greatly reflected a real-world setting in a programming environment. I feel that this project not only tested my skills but also gave me insight in regards to the industries synonymous with programming. The experience also provided me with a great oppurunity to develop and improve my own leadership skills.
 
-Here is the part I did:
+Here is the code I responsible for:
 
 ```cpp
 ...}
@@ -65,7 +65,8 @@ public:
 };
 ...}
 ```
-\n 
+ 
 This C++ code defines a Customer class for managing hotel bookings. It includes private data members for storing information such as room number, advance payment, customer name, address, phone number, booking start and end dates. The class has a constructor to initialize these values, getter functions to access private data, and display functions (displayCheckOutDetails and displayCustomerDetails) to output checkout details and basic customer information to the console. The code serves as a basic representation of a hotel booking system, allowing the creation of Customer objects with associated details and providing methods to display relevant information during check-out and for general customer details.
 <hr>
+
 Source: <a href="https://replit.com/@ortigosa/Hotel#main.cpp"><i>Replit Source Code</i></a>

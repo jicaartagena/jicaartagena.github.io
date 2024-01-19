@@ -11,9 +11,9 @@ labels:
   - C++
 summary: "A simple hotel management system in C++ my team and created as a final project for ICS 211."
 ---
-
+<hr>
 For our final project in ICS 211, my team and I were tasked with creating a hotel management system using C++. We utilized Replit for collaborative coding and sharing our work within the group. We all divided our work into different functions such as check-in, check-out, displaying the main menu, etc. During our lab sessions, we discussed the code and how these functions would work cohesively. To store customer and room data, we employed two vectors. The classes, namely Room, HotelManagement, and Customer, were designed to manage data and include functions primarily focused on displaying information. The logic flow was organized through a sequence of functions, each returning a new vector upon completion.
-
+<hr>
 Here is the code I responsible for:
 
 ```cpp

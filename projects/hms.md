@@ -42,4 +42,5 @@ int main() {
         std::cin >> opt;
 ...}
 ```
-(Unfortunately, the path to the original GitHub file from the course is privated)
+<hr>
+Source: <a href="https://replit.com/@JamesCartagena/Final-Project"><i>Replit Source Code</i></a>

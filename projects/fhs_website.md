@@ -26,3 +26,6 @@ The website for "Essentials" incorporates a modern and responsive design, allowi
 <hr>
 
 Source: <a href="https://replit.com/@JamesCartagena/Final-Project"><i>Replit Source Code</i></a>
+
+<hr>
+###### Acknowledgement: AI tools such as ChatGPT and other Online Resources were used to provide information and insights as well as help with grammar, vocabulary and punctuation.

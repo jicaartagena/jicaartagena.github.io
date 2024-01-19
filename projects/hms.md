@@ -4,7 +4,7 @@ type: project
 image: img/hms.webp
 title: "Hotel Management System"
 date: 2023-12-10
-published: False
+published: True
 labels:
   - VS Code
   - Replit

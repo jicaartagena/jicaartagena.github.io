@@ -16,14 +16,14 @@
   "interests": [
     { "name": "Computer Engineer" },
     { "name": "Software Engineer " },
-    { "name": "Software Developer" },
+    { "name": "Software Development" },
     { "name": "Video Games" },
     { "name": "Fantasy Novels" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Phyton", "CSS", "HTML" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "CSS", "HTML" ]
     },
     {
       "name": "Toolsets/OS",

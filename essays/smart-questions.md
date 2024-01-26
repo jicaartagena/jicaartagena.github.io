@@ -17,6 +17,11 @@ labels:
 
 Effective communication is the lifeblood of software engineering, and within the open-source community, the art of asking questions is paramount. Eric Steven Raymond, in his seminal work "How To Ask Questions The Smart Way," delineates guidelines crucial for meaningful interaction within this vibrant community. The ability to pose questions in a "smart way" is not just a formality; it's a skill that can significantly impact the efficiency and effectiveness of collaboration. In this essay, we delve into the importance of asking smart questions for software engineers, drawing insights from real-world examples sourced from the StackOverflow platform.
 
+## Smart Way
+
+
+## Not So Smart Way
+
 
 ## Conclusion
 

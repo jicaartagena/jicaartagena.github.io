@@ -18,7 +18,7 @@ labels:
 Effective communication is the lifeblood of software engineering, and within the open-source community, the art of asking questions is paramount. Eric Steven Raymond's "How To Ask Questions The Smart Way," provides guidelines crucial for meaningful interaction within this community. The ability to ask questions in a "smart way" is not just a formality; it's a skill that can significantly impact the efficiency and effectiveness of collaboration. In this essay, we delve into the importance of asking smart questions for software engineers, drawing insights from real-world examples sourced from the StackOverflow platform.
 
 ## Smart Question
-Question: How might I get detailed database error messages from dplyr::tbl?
+Question: [How might I get detailed database error messages from dplyr::tbl?](https://stackoverflow.com/questions/51792750/how-might-i-get-detailed-database-error-messages-from-dplyrtbl)
 The user seeks guidance on obtaining more detailed database error messages from the `dplyr::tbl` function in R while working with a SQL Server database, specifically the Stack Exchange data dump. Encountering the error message "Statement(s) could not be prepared," the user aims to receive more informative error messages directly in the R console, highlighting the need for efficient debugging. This question can be considered smart as it provides a clear context, articulates the problem, and shows the user's efforts in debugging. The user also engages with other developers, demonstrating a willingness to learn and explore solutions collaboratively.
 
 

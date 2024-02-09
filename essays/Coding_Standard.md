@@ -30,4 +30,4 @@ The initial skepticism towards coding standards transforms into an appreciation 
 As the symphony of coding standards plays on, the lessons learned from experiences with IntelliJ, ESLint, and the wisdom of coding standards become the building blocks of a resilient and proficient coding mindset. The journey becomes a celebration of collaboration, consistency, and the quest for perfection. The code is no longer just a set of instructions; it is a narrative, a story told universally through the adherence to standards. In this journey of growth and harmony, the coding standards serve as the notes, and ESLint as the conductor, guiding towards a future where coding excellence becomes second nature.
 
 <hr>
-###### Acknowledgement: AI tools such as ChatGPT and other Online Resources were used to provide information and insights as well as help with grammar, vocabulary and punctuation.
+###### Acknowledgement: AI tools such as ChatGPT and other Online Resources were used to provide information and insights as well as helping with grammar, vocabulary and punctuation.

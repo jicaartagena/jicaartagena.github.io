@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: ...
+title: Embracing Efficiency: The Value of UI Frameworks 
 # All dates must be YYYY-MM-DD format!
 date: 2024-2-22
 published: true
@@ -21,5 +21,6 @@ While Bootstrap promises efficiency, it is not devoid of challenges. The structu
 
 ## Conclusion
 With the evolving landscape of web development prompting ongoing discussions about the role of UI frameworks like Bootstrap, developers grapple with the intricacies of their structures, balancing efficiency with customization. Bootstrap 5 and its counterparts represent a transformative experience, navigating the challenges of a learning curve to achieve efficient, consistent, and visually appealing web design. As developers navigate these complexities, UI frameworks stand as key enablers, unlocking the potential for streamlined development. The decision to embrace UI frameworks hinges on project requirements, developer proficiency, and the desired equilibrium between efficiency and customization, highlighting the nuanced nature of this pivotal choice in web development.
+
 <hr>
 ###### Acknowledgement: AI tools such as ChatGPT and other Online Resources were used to provide information and insights as well as helping with grammar, vocabulary and punctuation.

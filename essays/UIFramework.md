@@ -24,11 +24,10 @@ The journey of learning Bootstrap resembles learning to swim in the vast ocean o
 
 ## The Dilemma of Design
 While Bootstrap promises efficiency, it is not devoid of challenges. The structured nature of UI frameworks introduces complexities, such as dealing with numerous classes and divs, leading to a somewhat frustrating experience. The frustration of futile attempts at achieving desired layouts before resorting to custom CSS classes paints a vivid picture of the learning curve associated with UI frameworks. For those accustomed to the freedom of raw HTML and CSS, the transition to UI frameworks might feel like navigating through an escape room, deciphering the framework's nuances. However, as proficiency grows, developers find themselves empowered to achieve more with less code.
-
-## Conclusion
 <img width="225px" 
      class="rounded mx-auto d-block" 
      src="https://miro.medium.com/v2/resize:fit:1400/0*gfhvEGw7u8ZA5Gsc.png" >
+## Conclusion
 With the evolving landscape of web development prompting ongoing discussions about the role of UI frameworks like Bootstrap, developers grapple with the intricacies of their structures, balancing efficiency with customization. Bootstrap 5 and its counterparts represent a transformative experience, navigating the challenges of a learning curve to achieve efficient, consistent, and visually appealing web design. As developers navigate these complexities, UI frameworks stand as key enablers, unlocking the potential for streamlined development. The decision to embrace UI frameworks hinges on project requirements, developer proficiency, and the desired equilibrium between efficiency and customization, highlighting the nuanced nature of this pivotal choice in web development.
 
 <hr>

@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Embracing Efficiency: The Value of UI Frameworks 
+title: The Value of UI Frameworks 
 # All dates must be YYYY-MM-DD format!
 date: 2024-2-22
 published: true

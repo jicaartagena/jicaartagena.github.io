@@ -13,7 +13,7 @@ labels:
 ---
 <img width="225px" 
      class="rounded float-start pe-4" 
-     src="https://miro.medium.com/v2/resize:fit:1400/0*svifr-_qC_jy2fBg" >
+     src="https://cdna.artstation.com/p/assets/images/images/019/010/986/large/joshua-prakash-office-desk.jpg?1561619626" >
 User Interface (UI) frameworks have become integral tools in the dynamic landscape of web development, offering efficiency and aesthetics. Bootstrap 5, a prominent UI framework, stands as a testament to this trend. As we delve into the process of creating aesthetically pleasing and functional websites, it becomes crucial to weigh the benefits and complexities associated with incorporating UI frameworks. While the learning curve may seem daunting, the rewards underscore why UI frameworks are invaluable in the world of web design.
 
 ## The Allure of Bootstrap 5

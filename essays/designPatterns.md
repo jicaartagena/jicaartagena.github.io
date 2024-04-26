@@ -15,13 +15,16 @@ In the realm of software engineering, design patterns serve as the timeless melo
 ## The Composition of Design Patterns
 <img width="225px" 
      class="rounded float-start pe-4" 
-     src="https://media.licdn.com/dms/image/C5112AQFoTIj88r77Fw/article-cover_image-shrink_600_2000/0/1533718888498?e=2147483647&v=beta&t=1uStmoYwec9KdjbjF-DPsnLRdYJvHDeaW1KQDwnViFY">
+     src="https://media.istockphoto.com/id/503654284/vector/colorful-background-with-music-notes.jpg?s=612x612&w=0&k=20&c=186kG0fGkE9heIRolq4Ndpdu60vSunk50ZY7TNvoax0=">
 Design patterns, much like the motifs in a symphony, offer standardized solutions to common problems in software design. They provide a universal language that empowers developers to communicate complex architectural ideas effectively. Creational patterns, akin to the opening chords of a symphony, facilitate the creation of objects while abstracting the creation logic, enhancing code flexibility and reuse. Structural patterns, like the intricate melodies woven throughout a musical piece, define the relationships between entities within the software architecture. Behavioral patterns, reminiscent of the dynamic rhythms and movements in music, govern the interactions and behaviors of objects, imbuing the application with responsiveness and versatility.
 
 ## Symphonic Journey in Software Engineering
 In my journey through software engineering, I've embraced design patterns as essential tools in my artistic arsenal. Whether developing a robust backend system or designing an intuitive user interface, design patterns have been instrumental in shaping the architecture of my projects. For instance, when faced with the challenge of managing complex object creation, I turned to the Factory Method pattern to encapsulate the instantiation logic, ensuring flexibility and extensibility. Similarly, in implementing a notification system, I leveraged the Observer pattern to decouple the sender and receiver, enabling seamless communication between disparate components.
 
 ## Guiding the Symphony of Code
+<img width="225px" 
+     class="rounded float-start pe-4" 
+     src="https://t4.ftcdn.net/jpg/05/25/58/89/360_F_525588993_Y6cGlcajMvXsTTQzwnM4Px1nfBy9Tbux.jpg">
 As I reflect on my experiences with design patterns, I realize that they are more than just solutions to technical challenges—they are guiding principles that shape the way we think about software design. They empower us to write code that is not only functional but also elegant, scalable, and maintainable. Like a conductor guiding an orchestra, design patterns orchestrate the symphony of software engineering, ensuring that every line of code plays its part in creating something truly remarkable.
 
 ## symConclusion

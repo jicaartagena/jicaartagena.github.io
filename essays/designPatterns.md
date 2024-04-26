@@ -27,7 +27,7 @@ In my journey through software engineering, I've embraced design patterns as ess
      src="https://t4.ftcdn.net/jpg/05/25/58/89/360_F_525588993_Y6cGlcajMvXsTTQzwnM4Px1nfBy9Tbux.jpg">
 As I reflect on my experiences with design patterns, I realize that they are more than just solutions to technical challenges—they are guiding principles that shape the way we think about software design. They empower us to write code that is not only functional but also elegant, scalable, and maintainable. Like a conductor guiding an orchestra, design patterns orchestrate the symphony of software engineering, ensuring that every line of code plays its part in creating something truly remarkable.
 
-## symConclusion
+## Conclusion
 In conclusion, design patterns are the artistry of software engineering, enabling us to compose elegant and robust solutions to complex problems. They provide the language through which we communicate and collaborate, enabling us to create software that not only functions flawlessly but also resonates with elegance and sophistication. As we continue to paint with code, let us embrace design patterns as our artistic tools, empowering us to create software that inspires awe and admiration in equal measure.
 
 <hr>

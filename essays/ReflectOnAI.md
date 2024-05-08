@@ -64,3 +64,6 @@ As AI continues to evolve and permeate various aspects of our lives, it's crucia
 ### VIII. Conclusion:
 In retrospect, navigating the realm of AI within ICS 314 has been a journey marked by discovery and adaptation. From grappling with coding challenges to leveraging AI for enhanced learning, each encounter has illuminated the transformative potential of this technology. While concerns about AI's impact on human creativity persist, its strategic integration has proven invaluable in streamlining tasks and fostering collaboration. Looking forward, striking a balance between harnessing AI's capabilities and preserving human ingenuity will be pivotal in shaping the trajectory of software engineering. Embracing AI as a catalyst for innovation, we embark on a path where human expertise and AI augmentation converge to propel the field towards unprecedented advancements.
 this good
+
+<hr>
+###### Acknowledgement: AI tools such as ChatGPT and other Online Resources were used to provide information and insights as well as help with grammar, vocabulary and punctuation.

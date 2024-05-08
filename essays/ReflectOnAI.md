@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Insights from ICS 314
 # All dates must be YYYY-MM-DD format!
-date: 2024-5-2024
+date: 2024-05-07
 published: true
 labels:
   - Software Engineering

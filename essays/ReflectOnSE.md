@@ -12,7 +12,7 @@ labels:
   - Ehtics in Software Engineering
 ---
 
-<img width="225px" 
+<img width="400px" 
      class="rounded mx-auto d-block" 
      src="https://img.freepik.com/premium-vector/word-cloud-background-concept-software-engineering-computer-programming-system-cloud-technology-development-application-management-vector-illustration_616200-4829.jpg" >
 

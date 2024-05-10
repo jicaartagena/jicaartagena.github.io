@@ -14,6 +14,7 @@ labels:
 summary: "My Final Project for the course: ICS 314"
 ---
 
+<hr>
 <div class="text-center p-4">
   <img width="500px" src="../img/Company.png" class="img-thumbnail" >
   <img width="500px" src="../img/AddCompany.png" class="img-thumbnail" >

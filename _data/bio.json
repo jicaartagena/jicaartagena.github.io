@@ -4,21 +4,20 @@
     "label": "Student",
     "picture": "https://avatars.githubusercontent.com/u/143857521?v=4",
     "email": "jigc@hawaii.edu",
-    "phone": "...",
+    "phone": "808-260-7622",
     "website": "https://jicaartagena.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2026.",
-    "location": { "address": "...", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": " ", "postalCode": "96819", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "jicaartagena", "url": "http://github.com/jicaartagena" },
       { "network": "linkedin", "username": "jicartagena", "url": "http://linkedin.com/in/jicartagena" }
     ]
   },
   "interests": [
-    { "name": "Computer Engineer" },
-    { "name": "Software Engineer " },
+    { "name": "Software Engineer" },
     { "name": "Software Development" },
+    { "name": "Artificial Intelligence" },
     { "name": "Video Games" },
-    { "name": "Fantasy Novels" }
   ],
   "skills": [
     {

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/2146467257 converted.png
+image: img/connect.jpg
 title: "Business Bonder"
 date: 2024
 published: true

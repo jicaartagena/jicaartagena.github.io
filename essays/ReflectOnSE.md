@@ -12,6 +12,10 @@ labels:
   - Ehtics in Software Engineering
 ---
 
+<img width="225px" 
+     class="rounded mx-auto d-block" 
+     src="https://img.freepik.com/premium-vector/word-cloud-background-concept-software-engineering-computer-programming-system-cloud-technology-development-application-management-vector-illustration_616200-4829.jpg" >
+
 As I approach the conclusion of this software engineering course, I find myself contemplating the broader implications of the concepts learned beyond the confines of web development. While our focus has predominantly been on crafting web applications, it's evident that the foundational principles explored in this course extend far beyond the boundaries of a single domain. These principles, including systematic problem-solving, collaboration, and ethical considerations, form the bedrock of software engineering, applicable across diverse contexts and industries.
 
 ### Agile Project Management

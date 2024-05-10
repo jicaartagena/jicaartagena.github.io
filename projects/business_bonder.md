@@ -15,15 +15,18 @@ summary: "My Final Project for the course: ICS 314"
 ---
 
 <hr>
+
 <div class="text-center p-4">
   <img width="500px" src="../img/Company.png" class="img-thumbnail" >
   <img width="500px" src="../img/AddCompany.png" class="img-thumbnail" >
 </div>
 
+<hr>
 The problem: Many UH computer science and engineering students want to learn about internship and job opportunities, but currently they must wait until a company decides to visit the campus or send out some sort of announcement. There is no efficient way for students to understand the “landscape” of internship and job opportunities that might be available in the future, so they can prepare for them now.
 
 The solution: The Company Connector web application provides a new way for local and non-local companies who want to recruit students from UH to make their (potential) opportunities known to students. At the same time, students can create profiles on the site with their interests. The site can match students to employers and vice-versa.
 
+<hr>
 ### Overview
 The development journey of our project, tentatively named the "Company Connector," has been an exciting endeavor aimed at addressing a critical challenge faced by University of Houston (UH) computer science and engineering students. Our vision was to create a platform where students could easily access internship and job opportunities while providing companies with a streamlined process to connect with potential candidates. Drawing inspiration from LinkedIn, our team embarked on designing a web application that would serve as a bridge between students and employers, enhancing the recruitment process for both parties.
 

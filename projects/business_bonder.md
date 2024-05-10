@@ -18,7 +18,9 @@ summary: "My Final Project for the course: ICS 314"
 
 <hr>
 Source: <a href="https://business-bonder.github.io/"><i>Project Homepage</i></a>
+
 Source: <a href="https://businessbonders.xyz/"><i>Project Site</i></a>
+
 Source: <a href="https://github.com/Business-Bonder"><i>GitHub Project Organization</i></a>
 
 <hr>

@@ -22,5 +22,6 @@ Source: <a href="https://business-bonder.github.io/"><i>Project Homepage</i></a>
 Source: <a href="https://businessbonders.xyz/"><i>Project Site</i></a>
 
 Source: <a href="https://github.com/Business-Bonder"><i>GitHub Project Organization</i></a>
+
 <hr>
 ###### Acknowledgement: AI tools such as ChatGPT and other Online Resources were used to provide information and insights as well as help with grammar, vocabulary and punctuation.

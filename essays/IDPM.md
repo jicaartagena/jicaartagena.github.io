@@ -26,7 +26,7 @@ Despite the inevitable discrepancies between my estimates and the actual time re
 
 Secondly, effort estimates served as a benchmark for progress tracking and accountability. They allowed us to monitor our progress against predefined goals and identify any deviations early on. Even though the estimates were not always accurate, they provided a reference point for assessing our performance and making necessary adjustments to our workflow.
 
-### what benefits?
+### What benefits?
 Tracking the actual effort expended on the issues proved to be invaluable for several reasons. Firstly, it provided visibility into individual and team productivity, allowing us to identify bottlenecks and inefficiencies in our workflow. By comparing actual effort against estimated effort, we were able to gain insights into task complexity and improve our estimation accuracy over time.
 
 Furthermore, tracking actual effort facilitated better resource allocation and project planning. It helped us identify tasks that required more time and attention, allowing us to adjust our priorities accordingly. Additionally, it encouraged accountability and transparency within the team, as everyone was aware of their contribution to the project.

@@ -10,6 +10,10 @@ labels:
   - Effort Estimation
 ---
 
+<div class="text-center p-4">
+  <img width="500px" src="../img/planning.png" class="img-thumbnail" >
+</div>
+
 Effort estimation and tracking are crucial components of software development projects. They provide insights into resource allocation, progress monitoring, and team collaboration. However, these practices can be challenging, and discrepancies are inevitable. In this sense, it is essential to continuously refine our estimation and tracking processes to improve our project management practices and ultimately deliver successful outcomes.
 
 ### How did you make your effort estimates?

@@ -7,7 +7,7 @@ date: 2025-12-15
 published: true
 labels:
   - Computer Science
-  - Software Engineering
+  - Software Engineering II
   - Reflection
   - Final Exam
 ---

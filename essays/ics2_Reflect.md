@@ -12,7 +12,6 @@ labels:
   - Final Exam
 ---
 
-### Pantry Pals: A Reflection on Software Engineering II
 ICS 414: Software Engineering II was a challenging and rewarding course that pushed my understanding of software development beyond simply writing code. Rather than focusing on isolated assignments, the course emphasized building a complete web application in a team setting while navigating ambiguous requirements, strict deadlines, and continuous feedback. This structure provided a realistic look into how software is developed in professional environments.
 
 The central focus of the course was our semester-long group project, Pantry Pals, a pantry inventory management application designed to help users track items across multiple locations such as pantries, refrigerators, freezers, and spice racks. The motivation behind the app came from a common real-world problem: people often forget what food they already have, leading to waste and inefficient grocery shopping. Our goal was to create a clean and intuitive system that allowed users to add, remove, and update inventory items, generate shopping lists, and view the status of their stored food.

@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Design Pattern"
+title: "Pantry Pals: A Reflection on Software Engineering II"
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-15
 published: true
@@ -11,7 +11,6 @@ labels:
   - Reflection
   - Final Exam
 ---
-
 
 ### Pantry Pals: A Reflection on Software Engineering II
 ICS 414: Software Engineering II was a challenging and rewarding course that pushed my understanding of software development beyond simply writing code. Rather than focusing on isolated assignments, the course emphasized building a complete web application in a team setting while navigating ambiguous requirements, strict deadlines, and continuous feedback. This structure provided a realistic look into how software is developed in professional environments.
